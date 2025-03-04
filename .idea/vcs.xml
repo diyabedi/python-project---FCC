@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boilerplate-demographic-data-analyzer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boilerplate-mean-variance-standard-deviation-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boilerplate-medical-data-visualizer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boilerplate-page-view-time-series-visualizer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boilerplate-sea-level-predictor" vcs="Git" />
+  </component>
+</project>
